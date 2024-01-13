@@ -1,11 +1,10 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_1HdV5y7DZ8WRki3KpnANGoLguU_jWnXFD_pwxxlC8yGQ8CIH1cXOtH2kqwKB5tS_w&usqp=CAU)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ramavtar Nagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47tegnqfomhnbdlbvpsbjoayu1amshpby468pfnc0p&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramavtar-nagar&label=Profile%20views&color=0e75b6&style=flat" alt="ramavtar-nagar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramavtar-nagar" alt="ramavtar-nagar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@ramavta60509861" target="blank"><img src="https://img.shields.io/twitter/follow/@ramavta60509861?logo=twitter&style=for-the-badge" alt="@ramavta60509861" /></a> </p>
 
