@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramavtar-nagar&show_icons=true&locale=en&layout=compact" alt="ramavtar-nagar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramavtar-nagar&show_icons=true&locale=en" alt="ramavtar-nagar" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramavtar-nagar&" alt="ramavtar-nagar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramavtar-nagar&show_icons=true&locale=en" alt="ramavtar-nagar" /></p>
